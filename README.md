@@ -5,7 +5,10 @@ _Italic_, **bold**
 2. list
   2a.listy
   2b.Listy  
-[wnyc](http://wnyc.org)
+[wnyc](http://wnyc.org)  
+  
 > i am  
-> quoting  
+> quoting.  
+
 <del>deleting</del>  
+<em>emphasis</em>  
