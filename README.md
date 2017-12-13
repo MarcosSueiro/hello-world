@@ -6,10 +6,12 @@ _Italic_, **bold**
   2a.listy  
   2b.Listy  
 [wnyc](http://wnyc.org)  
-  
+
 > i am  
 > quoting.   
 
 <del>deleting</del>  
 <em>emphasis</em>  
 <h2>New Header</h2>  
+
+:star: added via Atom and github desktop :atom:
