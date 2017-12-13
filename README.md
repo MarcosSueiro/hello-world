@@ -12,3 +12,4 @@ _Italic_, **bold**
 
 <del>deleting</del>  
 <em>emphasis</em>  
+<h2>New Header</h2>
